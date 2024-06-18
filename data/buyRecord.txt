@@ -1,0 +1,106 @@
+1001
+low@gmail.com
+2022/2/7 16:23
+Dress
+1
+Puzzle
+1
+119.8
+2022/2/8
+012-3567782
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+@
+1002
+weiping@gmail.com
+2022/2/4 16:23
+Dress
+1
+Puzzle
+1
+119.8
+2022/2/5
+011-14567289
+88, Jalan Bukit Beruang 1/1, Taman Bukit Melaka, 75450 Bukit Beruang, Melaka
+@
+1003
+low@gmail.com
+2022/2/9 16:23
+Dress
+1
+Puzzle
+1
+119.8
+2022/2/10
+014-12332211
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+@
+1004
+juihong@outlook.com
+2022/2/9 16:23
+Dress
+1
+Puzzle
+1
+119.8
+2022/2/10
+014-12332211
+22, Taman Gemilang, Jalan ,84900, Tangkak, Johor
+@
+1005
+juihong@outlook.com
+2022/2/9 16:23
+Dress
+1
+Puzzle
+1
+119.8
+2022/2/10
+014-12332211
+22, Taman Gemilang, Jalan ,84900, Tangkak, Johor
+@
+1006
+juihong@gmail.com
+2022/2/12 16:23
+Dress
+1
+Puzzle
+1
+119.8
+2022/2/2
+014-12332211
+22, Taman Gemilang, Jalan ,84900, Tangkak, Johor
+@
+1007
+low@gmail.com
+2022/4/7 17:27
+CovidSelfRapidTest
+3
+17.700001
+within 24 hours
+012-3567782
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+@
+1008
+low@gmail.com
+2022/4/17 11:27
+Pants
+3
+BuildingBlock
+3
+389.610016
+within 24 hours
+012-3567782
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+@
+1009
+low@gmail.com
+2022/5/18 12:44
+Pants
+3
+Doll
+4
+259.450005
+within 24 hours
+012-3567782
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+@

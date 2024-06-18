@@ -1,0 +1,61 @@
+6.0
+1001
+low@gmail.com
+12 : 25 PM
+12 : 55 PM
+012-3567782
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+Delivered
+@
+Nasi Lemak
+Mee Goreng
+@
+NULL
+@
+6.0
+1002
+low@gmail.com
+12 : 25 PM
+12 : 55 PM
+012-3567782
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+Delivered
+@
+Nasi Lemak
+Mee Goreng
+@
+NULL
+@
+6.0
+1003
+low@gmail.com
+12 : 25 PM
+12 : 55 PM
+012-3567782
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+Delivered
+@
+Nasi Lemak
+Mee Goreng
+@
+NULL
+@
+28.5
+1004
+low@gmail.com
+17 : 30 PM
+18 : 11 PM
+012-3567782
+42,Taman Gembira, Jalan Solok, 84000, Muar, Johor
+Delivered
+@
+ Bihun Goreng || Curry Chicken || 
+ Bihun Goreng || Fried Chicken || 
+ Bihun Goreng || 
+ Bihun Goreng || 
+ Mee Goreng || 
+@
+100PLUS
+100PLUS
+100PLUS
+@

@@ -1,0 +1,12 @@
+Fried Chicken
+3.50
+Curry Chicken
+3.50
+Chicken Rendang
+4.00
+Big Prawn
+5.00
+Fried Fish
+4.00
+Curry Fish
+4.50
